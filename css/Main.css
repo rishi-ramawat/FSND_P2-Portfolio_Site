@@ -11,20 +11,20 @@ a.thumbnail {
     height: 100%;
 }
 
-.featuredWork {
+.featured-work {
     color: #7d97ad;
 }
 
-.plainAnchor,
-.plainAnchor:hover,
-.plainAnchor:link,
-.plainAnchor:active {
+.plain-anchor,
+.plain-anchor:hover,
+.plain-anchor:link,
+.plain-anchor:active {
     outline: none;
     text-decoration: inherit;
     color: inherit;
 }
 
-.profilePicture {
+.profile-picture {
     max-width: 150px;
 }
 
