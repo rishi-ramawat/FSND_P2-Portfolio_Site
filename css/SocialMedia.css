@@ -1,11 +1,11 @@
-ul.social-network {
+.social-network {
   list-style: none;
   display: inline;
   margin-left: 0 !important;
   padding: 0;
 }
 
-ul.social-network li {
+.social-network li {
   display: inline;
   margin: 0 5px;
 }
@@ -33,7 +33,7 @@ ul.social-network li {
   color: #fff;
 }
 
-a.socialIcon:hover,
+.socialIcon:hover,
 .socialHoverClass {
   color: #44BCDD;
 }
@@ -53,6 +53,7 @@ a.socialIcon:hover,
 
 .social-circle li i {
   margin: 0;
+  margin-bottom: 10px;
   line-height: 40px;
   text-align: center;
 }
