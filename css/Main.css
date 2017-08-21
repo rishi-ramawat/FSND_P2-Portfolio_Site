@@ -1,0 +1,37 @@
+@media print {
+    .container {
+        width: auto;
+    }
+}
+
+a.thumbnail {
+    outline: none;
+    text-decoration: inherit;
+    color: inherit;
+    height: 100%;
+}
+
+.featuredWork {
+    color: #7d97ad;
+}
+
+.plainAnchor,
+.plainAnchor:hover,
+.plainAnchor:link,
+.plainAnchor:active {
+    outline: none;
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.profilePicture {
+    max-width: 150px;
+}
+
+.tagline {
+    color: #2d3c49;
+}
+
+.thumbnail > img {
+    max-height: 165px;
+}
